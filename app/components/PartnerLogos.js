@@ -1,0 +1,30 @@
+let partnerLogos = {
+  "3bg-dhk": require('../images/logos/3bg-dhk_logo.png'),
+  "fsb-ebl": require('../images/logos/fsb-ebl_logo.png'),
+  "alb-ebl": require('../images/logos/alb-ebl_logo.png'),
+  "bfr-ebl": require('../images/logos/bfr-ebl_logo.png'),
+  "bhr-ebl": require('../images/logos/bhr-ebl_logo.png'),
+  "dan-ebl": require('../images/logos/dan-ebl_logo.png'),
+  "dlt-dhk": require('../images/logos/dlt-ebl_logo.png'),
+  "dlt-ebl": require('../images/logos/dlt-ebl_logo.png'),
+  "dlt-zko": require('../images/logos/dlt-ebl_logo.png'),
+  "emp-ebl": require('../images/logos/emp-ebl_logo.png'),
+  "fmc-ebl": require('../images/logos/fmc-ebl_logo.png'),
+  "fsl-ebl": require('../images/logos/fsl-ebl_logo.png'),
+  "gld-ebl": require('../images/logos/gld-ebl_logo.png'),
+  "kit-ebl": require('../images/logos/kit-ebl_logo.png'),
+  "hzn-dhk": require('../images/logos/hzn-dhk_logo.png'),
+  "leb-ebl": require('../images/logos/leb-ebl_logo.png'),
+  "new-ebl": require('../images/logos/new-ebl_logo.png'),
+  "nzx-zko": require('../images/logos/nzx-zko_logo.png'),
+  "o3c-kfn": require('../images/logos/o3c-kfn_logo.png'),
+  "prm-ebl": require('../images/logos/prm-ebl_logo.png'),
+  "pwr-ebl": require('../images/logos/pwr-ebl_logo.png'),
+  "slv-ebl": require('../images/logos/slv-ebl_logo.png'),
+  "tar-ebl": require('../images/logos/tar-ebl_logo.png'),
+  "tar-srn": require('../images/logos/tar-ebl_logo.png'),
+  "trt-ebl": require('../images/logos/trt-ebl_logo.png'),
+  "wrp-dhk": require('../images/logos/wrp-dhk_logo.png')
+}
+
+export { partnerLogos };

@@ -1,0 +1,17 @@
+{
+  "IPTV": {
+    "color": "#e67e22"
+  },
+  "VOD": {
+    "color": "#2abc9c"
+  },
+  "VOIP": {
+    "color": "#7E57C2"
+  },
+  "RES": {
+    "color": "#2980b9"
+  },
+  "CORP": {
+    "color": "#c0392b"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "RES1": {
+    "speed": "15_mbps",
+    "quota": "unlimited",
+    "validity": "30_days",
+    "ips": "0",
+    "price": "39,000",
+    "desc": "",
+    "color": "#9CCC65",
+    "vas": ["IPTV", "VOD", "VOIP"]
+  },
+  "RES2": {
+    "speed": "25_mbps",
+    "quota": "unlimited",
+    "validity": "30_days",
+    "ips": "0",
+    "price": "59,000",
+    "desc": "",
+    "color": "#42A5F5",
+    "vas": ["IPTV", "VOD", "VOIP"]
+  },
+  "CWP1": {
+    "speed": "25_mbps",
+    "quota": "unlimited",
+    "validity": "30_days",
+    "ips": "1",
+    "price": "149,000",
+    "desc": "",
+    "color": "#FFA726",
+    "vas": ["IPTV", "VOD", "VOIP"]
+  },
+  "CWP2": {
+    "speed": "50_mbps",
+    "quota": "unlimited",
+    "validity": "30_days",
+    "ips": "2",
+    "price": "249,000",
+    "desc": "",
+    "color": "#ef5350",
+    "vas": ["IPTV", "VOD", "VOIP"]
+  },
+  "CWP3": {
+    "speed": "100_mbps",
+    "quota": "unlimited",
+    "validity": "30_days",
+    "ips": "4",
+    "price": "449,000",
+    "desc": "",
+    "color": "#7E57C2",
+    "vas": ["IPTV", "VOD", "VOIP"]
+  }
+}

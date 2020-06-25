@@ -1,0 +1,43 @@
+{
+  "name": "o3-telecom",
+  "version": "1.0.2",
+  "private": true,
+  "scripts": {
+    "android-build": "react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res && cd android && ./gradlew assembleDebug && cd .. ",
+    "start": "react-native link;node node_modules/react-native/local-cli/cli.js start --reset-cache",
+    "test": "jest",
+    "android": "react-native run-android --host=192.168.43.185:8081"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "native-base": "^2.13.12",
+    "react": "^16.1.1",
+    "react-native": "^0.50.3",
+    "react-native-android-location-services-dialog-box": "^2.7.0",
+    "react-native-easy-grid": "^0.2.2",
+    "react-native-elements": "^2.0.2",
+    "react-native-i18n": "^2.0.9",
+    "react-native-keyboard-spacer": "^0.4.1",
+    "react-native-map-link": "^2.1.0",
+    "react-native-maps": "^0.16.0",
+    "react-native-onesignal": "^3.8.1",
+    "react-native-render-html": "^4.2.0",
+    "react-native-restart": "^0.0.6",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^1.0.0-beta.19"
+  },
+  "devDependencies": {
+    "babel-jest": "^21.2.0",
+    "babel-preset-react-native": "^4.0.0",
+    "jest": "^21.2.1",
+    "react-test-renderer": "^16.1.1"
+  },
+  "rnpm": {
+    "assets": [
+      "./app/fonts/"
+    ]
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

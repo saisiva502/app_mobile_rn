@@ -1,0 +1,4 @@
+#Wed Jun 24 19:49:33 IST 2020
+base.0=/home/nyros/Documents/nageswararao/React-Native/app_mobile/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

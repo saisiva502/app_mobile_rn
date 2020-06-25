@@ -1,0 +1,15 @@
+Dashborad :
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+
+* delete Expire in last 30 days  and delta in last 60 days .
+
+* change churn users to 3 months . 
+
+* Active before 90 days delete .
+
+* Returned from churn users monthly reported added in aaa tab . 
+
+* change policy for churn users for exapmle for now (29-10-2018) churn should be from month (06 , 07 , 08) .
+
+* change the total activation vouchers to vouchers per month .
