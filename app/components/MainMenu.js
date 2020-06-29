@@ -43,7 +43,7 @@ export default class MainMenu extends Component {
     let locale = config.I18n.locale = this.props.locale;
     let mainMenu = config.MAIN_MENU;
     const uri = "https://facebook.github.io/react-native/docs/assets/favicon.png";
-    const html = '<div style="background-color:#ed6180; color: #ffffff"><div>Welcome <b>Khaled Ali</b></div> <div class="alert alert-info bg-info">SIP Number: <b>0662190039</b>.<br />Account status: <b>Active</b>.<br />Current package: <b>39K</b>.<br />Expiry time: <b>2020-06-30 14:44:33</b>.</div></div>'
+    const html = '<div style="background-color:#ed6180; color: #ffffff"><div>Welcome <b>Nageswar</b></div> <div class="alert alert-info bg-info">SIP Number: <b>0662190039</b>.<br />Account status: <b>Active</b>.<br />Current package: <b>39K</b>.<br />Expiry time: <b>2020-06-30 14:44:33</b>.</div></div>'
     const err_html = '<div style="background-color:#ed6180; color: #ffffff"><b>You are not belong our network</b></div>'
     
     // const parser = new DOMParser.DOMParser();
