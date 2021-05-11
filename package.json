@@ -9,7 +9,7 @@
     "android": "react-native run-android --host=192.168.43.185:8081"
   },
   "dependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "native-base": "^2.13.12",
     "react": "^16.1.1",
     "react-native": "^0.50.3",
