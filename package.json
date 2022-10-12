@@ -12,7 +12,7 @@
     "lodash": "^4.17.4",
     "native-base": "^2.13.12",
     "react": "^16.1.1",
-    "react-native": "^0.50.3",
+    "react-native": "^0.70.3",
     "react-native-android-location-services-dialog-box": "^2.7.0",
     "react-native-easy-grid": "^0.2.2",
     "react-native-elements": "^2.0.2",
